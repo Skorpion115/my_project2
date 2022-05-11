@@ -332,3 +332,5 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+# Um einen Fehler bei einer fehlerhaften Commet zu vermeiden
+git config --global fetch.fsck.badTimezone ignore
