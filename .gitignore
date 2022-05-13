@@ -334,3 +334,5 @@ ASALocalRun/
 .localhistory/
 # Um einen Fehler bei einer fehlerhaften Commet zu vermeiden
 git config --global fetch.fsck.badTimezone ignore
+# Git Verfolgung aufheben
+$ git rm --cached env
