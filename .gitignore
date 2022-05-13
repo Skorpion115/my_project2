@@ -296,8 +296,11 @@ paket-files/
 .cr/personal
 
 # Python Tools for Visual Studio (PTVS)
-.venv
-__pycache__
+__pycache__/
+*.pyc
+*.py
+hello_flask
+
 
 # Cake - Uncomment if you are using it
 # tools/**
