@@ -298,7 +298,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-*.py
+*.py[cod]
+*$py.class
 hello_flask
 
 # Environments
