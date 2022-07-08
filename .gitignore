@@ -359,5 +359,4 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-*tutorial.env
 *.env
